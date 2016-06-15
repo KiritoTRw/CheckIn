@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>CheckIn - Help</title>
-</head>
-<body>
 <p>
 <h1>CheckIn - Help</h1>
 <h3>快速签到程式 - 说明</h3>
@@ -29,5 +22,4 @@ Step4. 首次使用本程序时，会要求输入学号并和当前设备绑定.
 Step5.  签到成功！<br/>
 		<img src="pic/screenshot (4).png" alt><br/>
 </p>
-</body>
-</html>
+

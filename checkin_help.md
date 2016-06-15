@@ -7,6 +7,12 @@
 All Rights Reserved. &reg;<br/>
 </p>
 <p>
+# 安装方法: (适用于0.4 公测版)
+Step1. 打开APP,设置学号  
+<img src="pic/Screenshot (88).png" alt>  
+Step2. 签到完成.  
+<img src="pic/Screenshot (99).png" alt>  
+
 <h1>安装方法: (当前版本0.1 Alpha)</h1><br/>
 Step1. 下载并安装程序<br/>
 Step2. 使用前，请打开WLAN，搜索"HP_151签到热点"并连接.<br/>

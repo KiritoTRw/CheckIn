@@ -11,7 +11,7 @@ All Rights Reserved. &reg;<br/>
 <p> Step1. 打开APP,设置学号</p>
 <img src="pic/Screenshot (88).png" alt>  
 <p> Step2. 签到完成. </p>
-<img src="pic/Screenshot (99).png" alt>
+<img src="pic/Screenshot  (99).png" alt>
 </p>
 <h1>安装方法: (当前版本0.1 Alpha)</h1><br/>
 Step1. 下载并安装程序<br/>

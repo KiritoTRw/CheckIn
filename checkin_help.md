@@ -7,7 +7,7 @@
 All Rights Reserved. &reg;<br/>
 </p>
 <p>
-<h1>安装方法: (当前版本0.1 Beta)</h1><br/>
+<h1>安装方法: (当前版本0.1 Alpha)</h1><br/>
 Step1. 下载并安装程序<br/>
 Step2. 使用前，请打开WLAN，搜索"HP_151签到热点"并连接.<br/>
 Step3. 打开程序，如果已经连接到WLAN热点并且正处于签到时间，即可连接到"签到服务器".<br/>
